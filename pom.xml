@@ -10,7 +10,7 @@
     </parent>
     <groupId>at.janhehenberger</groupId>
     <artifactId>blog-spring-boot-rest-api</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0</version>
     <name>blog-spring-boot-rest-api</name>
     <description>blog-spring-boot-rest-api</description>
     <url/>
